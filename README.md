@@ -292,8 +292,6 @@ T9-Sprint-Databricks/
 ├── 07_validation_testing.ipynb
 ├── 08_Archival.ipynb
 ├── 09_etl_log_audit.ipynb
-├── incremental_load_02.ipynb
-├── scd_02.ipynb
 └── README.md
 ```
 
