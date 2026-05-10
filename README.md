@@ -161,7 +161,6 @@ Incremental loading is implemented using Delta Lake MERGE operations.
 
 ### Notebooks
 - `05_incremental_load.ipynb`
-- `incremental_load_02.ipynb`
 
 # Slowly Changing Dimension (SCD Type 2)
 
@@ -184,7 +183,6 @@ SCD Type 2 logic is implemented for customer dimension tracking.
 
 ### Notebooks
 - `06_scd.ipynb`
-- `scd_02.ipynb`
 
 # ETL Validation Framework
 
